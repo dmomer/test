@@ -9,3 +9,7 @@ exports.test = function(){
 exports.test2 = function(){
 	console.log('test 2');
 }
+
+exports.test3 = function(){
+	console.log('test3 ');
+}
